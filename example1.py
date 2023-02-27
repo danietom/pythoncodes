@@ -1,0 +1,12 @@
+age=45
+salary=14000
+name="John"
+a=b=c=10
+d=20
+print(age)
+print(salary)
+print(name)
+print(a)
+print(b)
+print(c)
+print(d)
